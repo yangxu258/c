@@ -1,7 +1,8 @@
 #include<stdio.h>
 
-int my_strlen(char* str)
+int my_strlen(const char* str)
 {
+
 	char* start=str;
 	char* end=str;
 	while(*end!='\0')
