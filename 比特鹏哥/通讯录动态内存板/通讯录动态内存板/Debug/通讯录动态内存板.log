@@ -1,0 +1,3 @@
+﻿  contact.c
+D:\c语言库\通讯录动态内存板\通讯录动态内存板\contact.c(133,25): warning C4090: “函数”: 不同的“const”限定符
+  通讯录动态内存板.vcxproj -> D:\c语言库\通讯录动态内存板\Debug\通讯录动态内存板.exe
