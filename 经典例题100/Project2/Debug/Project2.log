@@ -1,0 +1,13 @@
+﻿  Project2.c
+D:\c语言库\c\经典例题100\Project2\Project2.c(17,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\c语言库\c\经典例题100\Project2\Project2.c(18,34): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\c语言库\c\经典例题100\Project2\Project2.c(19,33): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\c语言库\c\经典例题100\Project2\Project2.c(20,32): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\c语言库\c\经典例题100\Project2\Project2.c(21,35): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\c语言库\c\经典例题100\Project2\Project2.c(24,18): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\c语言库\c\经典例题100\Project2\Project2.c(28,40): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\c语言库\c\经典例题100\Project2\Project2.c(32,39): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\c语言库\c\经典例题100\Project2\Project2.c(36,39): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\c语言库\c\经典例题100\Project2\Project2.c(40,40): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\c语言库\c\经典例题100\Project2\Project2.c(44,37): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Project2.vcxproj -> D:\c语言库\c\经典例题100\Project2\Debug\Project2.exe

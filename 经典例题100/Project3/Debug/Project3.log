@@ -1,0 +1,4 @@
+﻿  Project3.c
+D:\c语言库\c\经典例题100\Project3\Project3.c(12,20): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\c语言库\c\经典例题100\Project3\Project3.c(13,20): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Project3.vcxproj -> D:\c语言库\c\经典例题100\Project3\Debug\Project3.exe
