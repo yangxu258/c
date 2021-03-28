@@ -1,0 +1,3 @@
+﻿  Project.c
+D:\c语言库\c\经典例题100\Project7\Project.c(7,1): warning C4305: “初始化”: 从“int”到“char”截断
+  Project7.vcxproj -> D:\c语言库\c\经典例题100\Project7\Debug\Project7.exe
