@@ -16,6 +16,12 @@ void TextSeqList()
 	printf("\n");
 	SeqListpushfront(&s,5);
 	SeqListprint(&s);
+	/*int ret=SeqListfind(&s, 3);
+	if (ret != -1)
+	{
+		SeqListearsh(&s, ret);
+	}
+	SeqListprint(&s);*/
 }
 int main()
 {

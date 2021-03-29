@@ -20,9 +20,17 @@ void SeqListpushback(struct SeqList* ps, SeqListtype x);
 //末尾删除数据的声明
 void SeqListpopback(struct SeqList* ps);
 //开头添加数据的声明
- void SeqListpushfront(struct SeqList* ps, SeqListtype x);
+void SeqListpushfront(struct SeqList* ps, SeqListtype x);
 //开头删除数据的声明
- void SeqListpopfront(struct SeqList* ps);
+void SeqListpopfront(struct SeqList* ps);
+//任意位置添加数据的声明
+void SeqListinsert(struct SeqList* ps,int pos ,SeqListtype x);
+//任意位置删除数据的声明
+void SeqListearsh(struct SeqList* ps, int pos);
+//查找数据的声明
+int SeqListfind(struct SeqList* ps,  SeqListtype x);
 //打印数据的声明
 void SeqListprint(struct SeqList* ps);
+//摧毁动态内存的声明
+void SeqListdestory(struct SeqList* ps);
 

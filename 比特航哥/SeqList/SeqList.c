@@ -67,6 +67,46 @@ void SeqListpopfront(struct SeqList* ps)
 	}
 	ps->size--;
 }
+//任意位置添加数据的实现
+void SeqListinsert(struct SeqList* ps, int pos, SeqListtype x)
+{
+	assert(ps);
+	assert(pos < ps->size);
+	SeqListcheckcapacity(ps);
+	int end = ps->size - 1;
+	while (end >= pos)
+	{
+		ps->a[end+1] = ps->a[end];
+		end--;
+	}
+	ps->a[pos] = x;
+	ps->size++;
+}
+//任意位置删除数据的实现
+void SeqListerash(struct SeqList* ps, int pos)
+{
+	assert(ps);
+	assert(pos < ps->size);
+	int start = pos;
+	while (start < ps->size - 1)
+	{
+		ps->a[start] = ps->a[start + 1];
+	}
+	ps->size--;
+}
+//查找数据的实现
+int SeqListfind(struct SeqList* ps, SeqListtype x)
+{
+	int i=0;
+	while (i < ps->size)
+	{
+		if (ps->a[i] == x)
+		{
+			return i;
+		}
+	}
+	return -1;
+}
 //打印数据的实现
 void SeqListprint(struct SeqList* ps)
 {
@@ -75,4 +115,11 @@ void SeqListprint(struct SeqList* ps)
 	{
 		printf("%d ", ps->a[i]);
 	}
+}
+//摧毁动态内存的声明
+void SeqListdestory(struct SeqList* ps)
+{
+	free(ps->a);
+	ps->a = NULL;
+	ps->size = 0;
 }

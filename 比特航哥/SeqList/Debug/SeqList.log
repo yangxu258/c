@@ -1,2 +1,4 @@
 ﻿  SeqList.c
-  SeqList.vcxproj -> D:\c语言库\c\比特航哥\SeqList\Debug\SeqList.exe
+  Text.c
+  正在生成代码...
+D:\c语言库\c\比特航哥\SeqList\Text.c : fatal error C1090: PDB API 调用失败，错误代码“3”: D:\c语言库\c\比特航哥\SeqList\Debug\vc142.pdb
