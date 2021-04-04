@@ -1,0 +1,6 @@
+﻿  Project33.c
+D:\c语言库\c\经典例题100\Project33\Project33.c(8,8): warning C4013: “clrscr”未定义；假设外部返回 int
+D:\c语言库\c\经典例题100\Project33\Project33.c(9,16): warning C4013: “textbackground”未定义；假设外部返回 int
+D:\c语言库\c\经典例题100\Project33\Project33.c(10,6): warning C4013: “goxy”未定义；假设外部返回 int
+D:\c语言库\c\经典例题100\Project33\Project33.c(11,2): error C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+D:\c语言库\c\经典例题100\Project33\Project33.c(14,2): error C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.

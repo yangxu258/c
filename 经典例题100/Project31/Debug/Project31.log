@@ -1,0 +1,5 @@
+﻿  Project31.c
+D:\c语言库\c\经典例题100\Project31\Project31.c(11,25): warning C4013: “textbackground”未定义；假设外部返回 int
+D:\c语言库\c\经典例题100\Project31\Project31.c(12,3): error C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+D:\c语言库\c\经典例题100\Project31\Project31.c(13,3): error C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+D:\c语言库\c\经典例题100\Project31\Project31.c(14,3): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
