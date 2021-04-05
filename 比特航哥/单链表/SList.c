@@ -69,3 +69,26 @@ void SListPopBack(struct SListNode** phead)
 		preva->next = NULL;
 	}
 }
+
+//头插的实现
+void SListPushFront(struct SListNode** phead, SListDatetype x)
+{
+	struct SListNode* newNode = BuySListNode(x);
+	newNode->next = *phead;
+	*phead = newNode;
+}
+//头删的实现
+void SListPopFront(struct SListNode** phead)
+{
+	if (*phead == NULL)
+	{
+		return;
+	}
+	else
+	{
+		struct SListNode* newNode = *phead;
+		*phead = (*phead)->next;
+		free(newNode);
+		newNode = NULL;
+	}
+}

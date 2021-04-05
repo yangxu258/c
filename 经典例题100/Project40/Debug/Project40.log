@@ -1,0 +1,4 @@
+﻿  Project40.c
+D:\c语言库\c\经典例题100\Project40\Project40.c(21,14): warning C4047: “函数”:“int *”与“int (*)[9]”的间接级别不同
+D:\c语言库\c\经典例题100\Project40\Project40.c(21,10): warning C4024: “reverse”: 形参和实参 1 的类型不同
+  Project40.vcxproj -> D:\c语言库\c\经典例题100\Project40\Debug\Project40.exe
