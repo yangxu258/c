@@ -1,0 +1,17 @@
+﻿  stack.c
+  text.c
+D:\c语言库\c\比特航哥\逆波兰计算器\text.c(32,19): warning C4133: “函数”: 从“double *”到“stackType *”的类型不兼容
+D:\c语言库\c\比特航哥\逆波兰计算器\text.c(33,19): warning C4133: “函数”: 从“double *”到“stackType *”的类型不兼容
+D:\c语言库\c\比特航哥\逆波兰计算器\text.c(34,23): warning C4244: “函数”: 从“double”转换到“stackType”，可能丢失数据
+D:\c语言库\c\比特航哥\逆波兰计算器\text.c(37,19): warning C4133: “函数”: 从“double *”到“stackType *”的类型不兼容
+D:\c语言库\c\比特航哥\逆波兰计算器\text.c(38,19): warning C4133: “函数”: 从“double *”到“stackType *”的类型不兼容
+D:\c语言库\c\比特航哥\逆波兰计算器\text.c(39,23): warning C4244: “函数”: 从“double”转换到“stackType”，可能丢失数据
+D:\c语言库\c\比特航哥\逆波兰计算器\text.c(42,19): warning C4133: “函数”: 从“double *”到“stackType *”的类型不兼容
+D:\c语言库\c\比特航哥\逆波兰计算器\text.c(43,19): warning C4133: “函数”: 从“double *”到“stackType *”的类型不兼容
+D:\c语言库\c\比特航哥\逆波兰计算器\text.c(44,23): warning C4244: “函数”: 从“double”转换到“stackType”，可能丢失数据
+D:\c语言库\c\比特航哥\逆波兰计算器\text.c(47,19): warning C4133: “函数”: 从“double *”到“stackType *”的类型不兼容
+D:\c语言库\c\比特航哥\逆波兰计算器\text.c(48,19): warning C4133: “函数”: 从“double *”到“stackType *”的类型不兼容
+D:\c语言库\c\比特航哥\逆波兰计算器\text.c(51,23): warning C4244: “函数”: 从“double”转换到“stackType”，可能丢失数据
+D:\c语言库\c\比特航哥\逆波兰计算器\text.c(55,17): warning C4133: “函数”: 从“double *”到“stackType *”的类型不兼容
+  正在生成代码...
+  逆波兰计算器.vcxproj -> D:\c语言库\c\比特航哥\逆波兰计算器\Debug\逆波兰计算器.exe
